@@ -1,2 +1,3 @@
 [ubuntuServer]
-192.168.2.82 ansible_sudo_pass=14756208isawsome ansible_ssh_user=admin ansible_ssh_port=2634
+192.168.2.82 ansible_ssh_user=admin ansible_ssh_port=2634
+192.168.2.19 ansible_ssh_user=learn 
